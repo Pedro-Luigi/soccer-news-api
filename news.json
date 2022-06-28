@@ -2,19 +2,19 @@
   {
    "title": "Brasileiro Feminino",
    "description": "Palmeiras líder, Cristiane artilheira, classificados e rebaixados: veja balanço do Brasileiro Feminino",
-   "image": "https://s2.glbimg.com/WUXXXfhccEwrsDokovlb8AcEopo=/0x0:910x594/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/T/9/vzO9G3Snijt93LB1iBWQ/20220224175135-330.jpeg",
+   "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto1.jpg",
    "link":"https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/06/21/palmeiras-lider-cristiane-artilheira-classificados-e-rebaixados-veja-balanco-do-brasileiro-feminino.ghtml"
   },
   {
     "title": "Cruzeiro bate Ferroviária na Fonte e consegue 2ª vitória seguida no Brasileiro feminino",
     "description": "Com lei da ex, Cabulosas vencem Guerreiras Grenás por 1 a 0 com gol de falta de Rafa Andrade",
-    "image": "https://s2.glbimg.com/q2jNF3_1DKRbxevYvh7pUh0ncLY=/0x0:2048x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/4/l/ALVmcxTpaXB07UN1sM7A/52026379472-8f132de94c-k.jpg",
+    "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto2.jpg",
     "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/04/24/cruzeiro-bate-ferroviaria-na-fonte-e-consegue-2a-vitoria-seguida-no-brasileiro-feminino.ghtml"
   },
   {
     "title": "Retrospectiva da Ferroviária: glória no feminino e desilusão no masculino",
     "description": "Ano de 2021 reforça feminino como potência nacional e marca “bola na trave” do masculino pelo acesso",
-    "image": "https://s2.glbimg.com/cbJraidjr__wnZNJhkbJR_qA-IQ=/0x0:4936x3331/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/h/4/WDhS4JQbWmWSSE9KeqBg/2021-03-22t014808z-1571094472-hp1eh3m039y50-rtrmadp-3-soccer-libertadores-adc-fer-report.jpg",
+    "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto3.jpg",
     "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/ferroviaria/noticia/retrospectiva-da-ferroviaria-gloria-no-feminino-e-desilusao-no-masculino.ghtml"
   }
 ]
