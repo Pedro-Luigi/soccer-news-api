@@ -1,20 +1,20 @@
 [
   {
-   "id": 1,
+   "id": "1",
    "title": "Brasileiro Feminino",
    "description": "Palmeiras líder, Cristiane artilheira, classificados e rebaixados: veja balanço do Brasileiro Feminino",
    "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto1.jpg?raw=true",
    "link":"https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/06/21/palmeiras-lider-cristiane-artilheira-classificados-e-rebaixados-veja-balanco-do-brasileiro-feminino.ghtml"
   },
   {
-    "id": 2,
+    "id": "2",
     "title": "Cruzeiro bate Ferroviária na Fonte e consegue 2ª vitória seguida no Brasileiro feminino",
     "description": "Com lei da ex, Cabulosas vencem Guerreiras Grenás por 1 a 0 com gol de falta de Rafa Andrade",
     "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto2.jpg?raw=true",
     "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/04/24/cruzeiro-bate-ferroviaria-na-fonte-e-consegue-2a-vitoria-seguida-no-brasileiro-feminino.ghtml"
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "Retrospectiva da Ferroviária: glória no feminino e desilusão no masculino",
     "description": "Ano de 2021 reforça feminino como potência nacional e marca “bola na trave” do masculino pelo acesso",
     "image": "https://github.com/Pedro-Luigi/soccer-news-api/blob/main/images/foto3.jpg?raw=true",
