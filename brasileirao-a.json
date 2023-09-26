@@ -1,0 +1,224 @@
+{
+  "teams": [
+    {
+      "name": "Botafogo",
+      "points": 51,
+      "games_played": 24,
+      "wins": 16,
+      "draws": 3,
+      "losses": 5,
+      "goals_for": 39,
+      "goals_against": 14,
+      "goal_difference": 25
+    },
+    {
+      "name": "Palmeiras",
+      "points": 44,
+      "games_played": 24,
+      "wins": 12,
+      "draws": 8,
+      "losses": 4,
+      "goals_for": 38,
+      "goals_against": 18,
+      "goal_difference": 20
+    },
+    {
+      "name": "Grêmio",
+      "points": 43,
+      "games_played": 24,
+      "wins": 13,
+      "draws": 4,
+      "losses": 7,
+      "goals_for": 39,
+      "goals_against": 31,
+      "goal_difference": 8
+    },
+    {
+      "name": "Bragantino",
+      "points": 42,
+      "games_played": 24,
+      "wins": 11,
+      "draws": 9,
+      "losses": 4,
+      "goals_for": 33,
+      "goals_against": 21,
+      "goal_difference": 12
+    },
+    {
+      "name": "Fluminense",
+      "points": 41,
+      "games_played": 24,
+      "wins": 12,
+      "draws": 5,
+      "losses": 7,
+      "goals_for": 34,
+      "goals_against": 26,
+      "goal_difference": 8
+    },
+    {
+      "name": "Athletico-PR",
+      "points": 40,
+      "games_played": 24,
+      "wins": 11,
+      "draws": 7,
+      "losses": 6,
+      "goals_for": 37,
+      "goals_against": 27,
+      "goal_difference": 10
+    },
+    {
+      "name": "Flamengo",
+      "points": 40,
+      "games_played": 24,
+      "wins": 11,
+      "draws": 7,
+      "losses": 6,
+      "goals_for": 36,
+      "goals_against": 30,
+      "goal_difference": 6
+    },
+    {
+      "name": "Fortaleza",
+      "points": 38,
+      "games_played": 24,
+      "wins": 11,
+      "draws": 5,
+      "losses": 8,
+      "goals_for": 29,
+      "goals_against": 23,
+      "goal_difference": 6
+    },
+    {
+      "name": "Atlético-MG",
+      "points": 37,
+      "games_played": 24,
+      "wins": 10,
+      "draws": 7,
+      "losses": 7,
+      "goals_for": 26,
+      "goals_against": 19,
+      "goal_difference": 7
+    },
+    {
+      "name": "Corinthians",
+      "points": 30,
+      "games_played": 24,
+      "wins": 7,
+      "draws": 9,
+      "losses": 8,
+      "goals_for": 28,
+      "goals_against": 29,
+      "goal_difference": -1
+    },
+    {
+      "name": "Cuiabá",
+      "points": 29,
+      "games_played": 23,
+      "wins": 8,
+      "draws": 5,
+      "losses": 10,
+      "goals_for": 23,
+      "goals_against": 29,
+      "goal_difference": -6
+    },
+    {
+      "name": "Cruzeiro",
+      "points": 29,
+      "games_played": 24,
+      "wins": 7,
+      "draws": 8,
+      "losses": 9,
+      "goals_for": 23,
+      "goals_against": 21,
+      "goal_difference": 2
+    },
+    {
+      "name": "Internacional",
+      "points": 29,
+      "games_played": 24,
+      "wins": 7,
+      "draws": 8,
+      "losses": 9,
+      "goals_for": 20,
+      "goals_against": 27,
+      "goal_difference": -7
+    },
+    {
+      "name": "São Paulo",
+      "points": 28,
+      "games_played": 23,
+      "wins": 7,
+      "draws": 7,
+      "losses": 9,
+      "goals_for": 27,
+      "goals_against": 25,
+      "goal_difference": 2
+    },
+    {
+      "name": "Vasco",
+      "points": 26,
+      "games_played": 24,
+      "wins": 7,
+      "draws": 5,
+      "losses": 12,
+      "goals_for": 26,
+      "goals_against": 34,
+      "goal_difference": -8
+    },
+    {
+      "name": "Goiás",
+      "points": 26,
+      "games_played": 24,
+      "wins": 6,
+      "draws": 8,
+      "losses": 10,
+      "goals_for": 20,
+      "goals_against": 30,
+      "goal_difference": -10
+    },
+    {
+      "name": "Bahia",
+      "points": 25,
+      "games_played": 24,
+      "wins": 6,
+      "draws": 7,
+      "losses": 11,
+      "goals_for": 28,
+      "goals_against": 33,
+      "goal_difference": -5
+    },
+    {
+      "name": "Santos",
+      "points": 24,
+      "games_played": 24,
+      "wins": 6,
+      "draws": 6,
+      "losses": 12,
+      "goals_for": 23,
+      "goals_against": 40,
+      "goal_difference": -17
+    },
+    {
+      "name": "América-MG",
+      "points": 17,
+      "games_played": 23,
+      "wins": 4,
+      "draws": 5,
+      "losses": 14,
+      "goals_for": 26,
+      "goals_against": 49,
+      "goal_difference": -23
+    },
+    {
+      "name": "Coritiba",
+      "points": 14,
+      "games_played": 23,
+      "wins": 3,
+      "draws": 5,
+      "losses": 15,
+      "goals_for": 24,
+      "goals_against": 51,
+      "goal_difference": -27
+    }
+  ]
+}
